@@ -1,6 +1,6 @@
 # Digital vs. Analog Pre-Sleep Activity: Nocturnal Cardiac Response & Sleep Onset Latency
 
-**Course:** 0SSUD0 Mobility and Infrastructure  
+**Course:** JBM170
 **Institution:** Eindhoven University of Technology (TU/e)  
 **Study type:** 14-day within-subject field study  
 **Data collection period:** 14 consecutive nights per participant  
